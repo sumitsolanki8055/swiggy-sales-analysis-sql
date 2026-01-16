@@ -17,33 +17,34 @@ The project follows **industry best practices**, including data validation, star
 ---
 
 ## 📂 Repository Structure
-swiggy-sales-analysis-sql
+swiggy-sales-analysis-sql/
 │
-├── data
-│ └── swiggy_data.csv
+├── data/
+│   └── swiggy_data.csv
 │
-├── docs
-│ ├── erd_star_schema.png
-│ └── data_dictionary.xlsx
+├── docs/
+│   ├── erd_star_schema.png
+│   └── data_dictionary.xlsx
 │
-├── sql
-│ ├── 01_data_cleaning.sql
-│ ├── 02_duplicate_removal.sql
-│ ├── 03_star_schema.sql
-│ ├── 04_fact_load.sql
-│ ├── 05_kpi_queries.sql
-│ └── 06_business_analysis.sql
+├── sql/
+│   ├── 01_data_cleaning.sql
+│   ├── 02_duplicate_removal.sql
+│   ├── 03_star_schema.sql
+│   ├── 04_fact_load.sql
+│   ├── 05_kpi_queries.sql
+│   └── 06_business_analysis.sql
 │
-├── tableau
-│ ├── swiggy_dashboard.twbx
-│ └── screenshots
-│ ├── executive_overview.png
-│ ├── location_intelligence.png
-│ ├── food_restaurant_performance.png
-│ └── customer_spending_ratings.png
+├── tableau/
+│   ├── swiggy_dashboard.twbx
+│   └── screenshots/
+│       ├── executive_overview.png
+│       ├── location_intelligence.png
+│       ├── food_restaurant_performance.png
+│       └── customer_spending_ratings.png
 │
 ├── README.md
 └── LICENSE
+
 
 ---
 
