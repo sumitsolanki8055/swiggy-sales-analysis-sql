@@ -9,25 +9,26 @@ and generate business insights.
 
 ### 1️⃣ Executive Overview
 Key KPIs and overall business performance.
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](tableau/screenshots/executive_overview.png)
 
 ---
 
 ### 2️⃣ Location Intelligence
 City-wise and state-wise order and revenue analysis.
-![Location Intelligence](screenshots/location_intelligence.png)
+![Location Intelligence](tableau/screenshots/location_intelligence.png)
 
 ---
 
 ### 3️⃣ Food & Restaurant Performance
 Top restaurants, cuisines, and most ordered dishes.
-![Food & Restaurant Performance](screenshots/food_restaurant_performance.png)
+![Food & Restaurant Performance](tableau/screenshots/food_restaurant_performance.png)
 
 ---
 
 ### 4️⃣ Customer Spending & Ratings
 Price buckets and rating distribution analysis.
-![Customer Spending & Ratings](screenshots/customer_spending_ratings.png)
+![Customer Spending & Ratings](tableau/screenshots/customer_spending_ratings.png)
+
 
 
 ## Tech Stack
