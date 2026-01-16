@@ -17,6 +17,8 @@ The project follows **industry best practices**, including data validation, star
 ---
 
 ## 📂 Repository Structure
+
+```
 swiggy-sales-analysis-sql/
 │
 ├── data/
@@ -44,6 +46,8 @@ swiggy-sales-analysis-sql/
 │
 ├── README.md
 └── LICENSE
+```
+
 
 
 ---
